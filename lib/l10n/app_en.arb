@@ -1,0 +1,14 @@
+{
+  "@@locale": "en",
+  "appTitle": "ALTAR",
+  "dashboard": "Dashboard",
+  "chatbot": "Chatbot",
+  "settings": "Settings",
+  "dashboardComingSoon": "Student progress dashboard – Coming Soon",
+  "settingsComingSoon": "More settings will be available soon.",
+  "language": "Language",
+  "english": "English",
+  "arabic": "Arabic (Coming Soon)",
+  "typeMessage": "Type a message...",
+  "aiTyping": "AI is typing..."
+}

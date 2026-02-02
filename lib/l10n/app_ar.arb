@@ -1,0 +1,14 @@
+{
+  "@@locale": "ar",
+  "appTitle": "ALTAR",
+  "dashboard": "لوحة التحكم",
+  "chatbot": "المساعد الذكي",
+  "settings": "الإعدادات",
+  "dashboardComingSoon": "لوحة تقدم الطلاب - قريباً",
+  "settingsComingSoon": "المزيد من الإعدادات ستكون متاحة قريباً.",
+  "language": "اللغة",
+  "english": "الإنجليزية",
+  "arabic": "العربية (قريباً)",
+  "typeMessage": "اكتب رسالة...",
+  "aiTyping": "الذكاء الاصطناعي يكتب..."
+}
