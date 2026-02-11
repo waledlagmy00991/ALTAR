@@ -1,4 +1,4 @@
-# altar
+# ALTAR
 
 A new Flutter project.
 
